@@ -1,6 +1,6 @@
 package problemstatetment.hospitalpatientmanagement;
 
-//Abstract class Patoent
+//Abstract class Patient
 abstract class Patient {
     private String patientId;
     private String name;
