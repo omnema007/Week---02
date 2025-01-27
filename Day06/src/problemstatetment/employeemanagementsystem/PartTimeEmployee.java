@@ -1,5 +1,6 @@
 package problemstatetment.employeemanagementsystem;
 
+//PartTimeEmployee class
 class PartTimeEmployee extends Employee implements Department{
     private double hourlyRate;
     private int hoursWorked;

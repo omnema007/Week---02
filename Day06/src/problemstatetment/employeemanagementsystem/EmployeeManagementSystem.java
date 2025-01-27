@@ -10,11 +10,10 @@ public class EmployeeManagementSystem {
 
         System.out.println("Full Time Employee Details:");
         f1.displayDetails();
-//        System.out.println("Total Salary: " + f1.calculateSalary());
         System.out.println();
 
         System.out.println("Part Time Employee Details:");
         p1.displayDetails();
-//        System.out.println("Total Salary: " + p1.calculateSalary());
+
     }
 }
