@@ -8,7 +8,7 @@ public class OnlineFoodDeliverySystem {
 
         // Process orders
         processOrder(vegItem, 10.0);
-        processOrder(nonVegItem, 5.0); 
+        processOrder(nonVegItem, 5.0);
     }
 
     // Process order
